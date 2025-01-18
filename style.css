@@ -264,7 +264,7 @@ input:focus {
     .section-heading .line::after {
       width: 60px;
       height: 2px;
-      background-color: #db4437;
+      background-color: #9d74d3;
       content: '';
       position: absolute;
       bottom: 0;
